@@ -236,7 +236,7 @@ Care_Transition_Analytics/
 
 ## Clone Repository
 
-git clone <repository-url>
+git clone https://github.com/mudgalshriya2004-eng/Care_Transition_Analytics.git
 
 cd Care_Transition_Analytics
 
